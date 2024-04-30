@@ -1,5 +1,4 @@
 # Amazon_Clone
-<br>
 This project is a front-end clone of the Amazon website, developed using HTML and CSS. It replicates the user interface and design of the Amazon platform, showcasing products and layout elements similar to the original site. By creating this clone, I aimed to practice my HTML and CSS skills while familiarizing myself with the structure and styling techniques used in a real-world e-commerce platform like Amazon.
 <br>
 <br>
